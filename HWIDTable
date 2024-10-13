@@ -1,1 +1,7 @@
-["HWID1","HWID2","HWID3"]
+return {
+    verifiedHWIDs = {
+        ["HWID1"] = true,
+        ["HWID2"] = true,
+        ["HWID3"] = true,
+    },
+}
