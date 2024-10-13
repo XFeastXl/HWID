@@ -1,5 +1,1 @@
-return {
-    "HWID1",
-    "HWID2",
-    "HWID3",
-}
+["HWID1","HWID2","HWID3"]
